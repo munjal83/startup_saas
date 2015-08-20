@@ -45,6 +45,9 @@ gem 'stripe', '1.16.1'
 # Installing Figaro gem for hidding secrets
 gem 'figaro', '1.0.0'
 
+# Installing Paperclip gem for profile pictures
+gem 'paperclip', '4.2.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
