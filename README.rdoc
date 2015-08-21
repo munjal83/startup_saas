@@ -1,7 +1,8 @@
 == README
 
-A startup e-commerce Saas platform to sell services
-http://somestartupcompany.com
+A startup e-commerce Saas community platform for Developers, Designers and Photographers to create a profile and contact other people in the community with Pro Membership. A great place to pitch your projects and seek work
+
+http://obscure-sea-7049.herokuapp.com/
 
 
 Things you may want to cover:
